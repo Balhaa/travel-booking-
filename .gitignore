@@ -1,0 +1,6 @@
+# .gitignore 
+public/uploads/ 
+.DS_Store 
+Thumbs.db 
+.idea/ 
+.vscode/
